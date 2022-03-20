@@ -32,3 +32,6 @@ python 3
 # Disclaimer
 this was created mainly for linux systems,<br>
 it could not work on windows systems because of the antivirus.
+
+# New features
+i will (maybe) add more features on this code in the future
