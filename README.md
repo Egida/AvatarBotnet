@@ -1,6 +1,8 @@
 # AvatarBotnet
 discord golang botnet for linux (and maybe windows)
 
+![alt text](https://github.com/kl3sshydra/AvatarBotnet/raw/main/screenshot.png)
+
 # Requirements
 golang
 python 3
