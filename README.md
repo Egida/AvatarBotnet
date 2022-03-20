@@ -1,7 +1,7 @@
-![](https://github.com/kl3sshydra/AvatarBotnet/raw/main/screenshot.png)
-
 # AvatarBotnet
 discord golang botnet for linux (and maybe windows)
+
+![](https://github.com/kl3sshydra/AvatarBotnet/raw/main/screenshot.png)
 
 # Requirements
 golang
